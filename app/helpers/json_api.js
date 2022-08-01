@@ -1,6 +1,6 @@
 const NAME = "css-tricks",
-  DOMAIN = "./app/api.json",
-  SLIDE = "./app/slider.json";
+  DOMAIN = "api.json",
+  SLIDE = "slider.json";
 /*   DOMAIN = "https://css-tricks.com",
   SITE = "https://css-tricks.com/wp-json",
   API_WP = "https://css-tricks.com/wp-json/wp/v2",
